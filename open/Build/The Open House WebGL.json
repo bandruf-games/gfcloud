@@ -1,7 +1,7 @@
 {
 "companyName": "corpsepile",
 "productName": "The Open House",
-"dataUrl": "The Open House WebGL.data.unityweb",
+"dataUrl": "https://raw.githubusercontent.com/EmulatorOS/gfile/main/open/Build/The Open House WebGL.data.unityweb",
 "wasmCodeUrl": "The Open House WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "The Open House WebGL.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
